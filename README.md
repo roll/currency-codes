@@ -1,3 +1,5 @@
+[![Frictionless](https://github.com/roll/currency-codes/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=roll&repo=currency-codes&flow=frictionless)
+
 List of currencies and their 3 digit codes as defined by [ISO 4217][iso-4217]. The data
 provided here is the consolidation of Table A.1 "Current currency & funds code list" and
 Table A.3 "Historic denominations".
